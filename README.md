@@ -1,5 +1,5 @@
 # IPL-Data-Analysis
-<h1>Objective :</h1>
+<h2>Objective :</h2>
 This project aims to analyze the Indian Premier League (IPL) dataset using the powerful NumPy and Matplotlib libraries in Python.
 <br>
 <h3>Libraries :</h3>
