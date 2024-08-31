@@ -9,7 +9,6 @@ This project aims to analyze the Indian Premier League (IPL) dataset using the p
     NumPy: 
   </h4>
   <p> For creating nd-array<p>
-    <br>
     <h4>
     Matplotlib: 
   </h4>
